@@ -46,3 +46,6 @@ npm install
 
 cd ../backend
 npm install
+```
+
+Still several functionalities are remaining and only backend is completed .
